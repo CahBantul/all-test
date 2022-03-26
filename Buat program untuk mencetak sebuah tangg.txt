@@ -1,0 +1,18 @@
+Buat program untuk mencetak sebuah tanggal dengan ketentuan :
+Jika user input format (DMMY) maka akan mencetak 12 Des 2021
+Jika user input format( DMMMMY ) maka akan 12 Desember 2021
+
+Input program : 
+D = 12
+M = 12
+Y = 2021
+Format = DMMMMY
+
+Output Program 12 Desember 2022
+
+D = 12
+M = 1
+Y = 2022
+Format = DMMY
+
+Output Program 12 Jan 2022
